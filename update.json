@@ -1,3 +1,4 @@
 {
-    "paths": ["main.py", "test.py"]
+    "paths": ["main.py", "test.py"],
+    "version": "1.0.1"
 }
