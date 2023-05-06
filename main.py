@@ -1,4 +1,6 @@
+import example1
+import example2
 
 
-def test():
-  print("Main Folder")
+
+example1.example1()
