@@ -3,4 +3,4 @@ import example2
 
 
 def test():
-  example1.example1()
+  example1.example()
